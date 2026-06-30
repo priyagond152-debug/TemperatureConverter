@@ -1,0 +1,1 @@
+An interactive temperature converter built with HTML5, CSS3, and JavaScript. It allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin with real-time calculations and input validation.
